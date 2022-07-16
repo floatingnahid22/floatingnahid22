@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nahid1.netlify.app/](https://portfolio-nahid1.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nahid1.netlify.app/)
 
 - 💬 Ask me about **react, express, mongodb**
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFGkxNgDsM/S_AdkKWYN1vNcf0qMRtVlQ/edit?utm_content=DAFGkxNgDsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFGkxNgDsM/S_AdkKWYN1vNcf0qMRtVlQ/edit?utm_content=DAFGkxNgDsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFGkxNgDsM/S_AdkKWYN1vNcf0qMRtVlQ/edit?utm_content=DAFGkxNgDsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I love to cook**
 
