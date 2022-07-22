@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Nahid Hossain</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Social Media App](https://github.com/floatingnahid22/Social-Media-App-with-MERN-Stack)
 
