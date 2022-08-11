@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, This is Nahid Hossain</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate JavaScript Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Social Media App](https://github.com/floatingnahid22/Social-Media-App-with-MERN-Stack)
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nahid1.netlify.app/](https://portfolio-nahid1.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nahid1.netlify.app/)
 
-- 💬 Ask me about **react, express, mongodb**
+- 💬 Ask me about **React.js, Express.js, Node.js**
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
