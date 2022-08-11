@@ -29,4 +29,4 @@
 
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatingnahid22&theme=buefy&show_icons=true )
 
-<p>https://github-readme-streak-stats.herokuapp.com/?user=floatingnahid22&theme=buefy&show_icons=true</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floatingnahid22&theme=buefy&show_icons=true" alt="floatingnahid22" /></p>
