@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nahid1.netlify.app/)
 
-- 💬 Ask me about **React.js, Express.js, Node.js**
+- 💬 Ask me about **React.js, Express.js & Node.js.**
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
