@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-_1xZiJPfmwUaEp3NFckefpUxJIkxRTl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s4Wk0izpt7IaDR4m83XzFsIq7gFTfY8D/view?usp=sharing)
 
 - ⚡ Fun fact **I love to cook**
 
