@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="banner" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
 <h1 align="center">Hi 👋, This is Nahid Hossain</h1>
 <h3 align="center">A passionate JavaScript Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
