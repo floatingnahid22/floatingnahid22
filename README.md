@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/floatingnahid22/E-Commerce-App)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nahid1.netlify.app/)
 
