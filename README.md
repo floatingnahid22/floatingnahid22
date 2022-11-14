@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nahid1.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nahid22-portfolio.netlify.app/)
 
 - 💬 Ask me about **React.js, Express.js & Node.js.**
 
