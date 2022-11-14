@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Chat-App](https://github.com/floatingnahid22/Chat-Application)
+- 🔭 I’m currently working on [Social-Media-App](https://github.com/floatingnahid22/Full-Stack-Social-Media-App)
 
 - 🌱 I’m currently learning **MERN Stack**
 
