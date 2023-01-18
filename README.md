@@ -26,8 +26,8 @@
 <a href="https://stackoverflow.com/users/19819748/nahid-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19819748/nahid-hossain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nahidhossain1184" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahidhossain1184" height="30" width="40" /></a>
-</p><a href="https://auth.geeksforgeeks.org/user/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nahidhossain1184" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">My Current Stack:</h3>
