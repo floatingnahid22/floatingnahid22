@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/floatingnahid22/LeetCode-Solve)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MEAN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nahid22-portfolio.netlify.app/)
 
