@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Nahid Hossain</h1>
-<h3 align="center">A passionate Full-stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Problem Solving](https://github.com/floatingnahid22/LeetCode-Solve)
+- 🔭 I’m currently working on [Learning Angular]([https://github.com/floatingnahid22/LeetCode-Solve](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/Angular%20Beginners%20Course/angularCourse))
 
 - 🌱 I’m currently learning **MEAN Stack**
 
@@ -45,5 +45,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floatingnahid22&theme=onedark" alt="floatingnahid22" /></p>
 
+![Nahid's Github Stats](https://github-readme-stats.vercel.app/api?username=floatingnahid22&show_icons=true&include_all_commits=true&theme=radical)
+
+![Nahid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=floatingnahid22&layout=compact&theme=radical)
+
+[![Nahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=floatingnahid22&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
