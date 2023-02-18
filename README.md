@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Learning Angular](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/Angular%20Beginners%20Course/angularCourse)
+- 🔭 I’m currently working on [Angular](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/Angular%20Beginners%20Course/angularCourse)
 
 - 🌱 I’m currently learning **MEAN Stack**
 
