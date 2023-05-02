@@ -3,19 +3,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Angular](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/puvit-cmsv2)
+- 🔭 I’m currently working on [Pruvit-CMS](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/puvit-cmsv2)
 
 - 🌱 I’m currently learning **MEAN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nahid22-portfolio.netlify.app/)
 
-- 💬 Ask me about **Angular, React.js, Express.js & Node.js.**
+- 💬 Ask me about **Angular, React**
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
 
-- ⚡ Fun fact **I love to cook**
+- ⚡ Fun fact **I love to Travel & Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
