@@ -46,6 +46,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floatingnahid22&theme=onedark" alt="floatingnahid22" /></p>
 
 
-[![Nahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=floatingnahid22&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
