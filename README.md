@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, This is Nahid Hossain</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer(Frontend) from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 - 🔭 I’m currently working on [Pruvit-CMS](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/pruvit-cms)
 
-- 🌱 I’m currently learning **MEAN Stack**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://nahid22-portfolio.netlify.app/)
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **JavaScript, Angular, React**
 
 - 📫 How to reach me **nahidhossain1184@gmail.com**
 
@@ -22,7 +20,6 @@
 <a href="https://twitter.com/nahidhossain22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahidhossain22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nahid-hossain-66433919b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid-hossain-66433919b" height="30" width="40" /></a>
 <a href="https://fb.com/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahidhossain1184" height="30" width="40" /></a>
-<a href="https://instagram.com/imnahidhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imnahidhossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19819748/nahid-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19819748/nahid-hossain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nahidhossain1184" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nahidhossain1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahidhossain1184" height="30" width="40" /></a>
