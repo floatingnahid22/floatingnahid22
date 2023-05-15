@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Pruvit-CMS Demo](https://github.com/floatingnahid22/Office-Work-Practice/tree/main/pruvit-cms)
+- 🔭 I’m currently working on [Pruvit-CMS Demo](https://github.com/floatingnahid22/Pruvit-CMS-Demo-using-Angular)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nahid22-portfolio.netlify.app/)
 
