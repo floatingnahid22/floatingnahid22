@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [ShopKeto]()
+- 🔭 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nahidv2.netlify.app/)
 
