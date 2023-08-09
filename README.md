@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nahidv2.netlify.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Angular, React**
+- ![image](https://github.com/floatingnahid22/floatingnahid22/assets/81576753/0d576f84-9917-4411-bf41-6a8d77bd0771)
+ Ask me about **JavaScript, TypeScript, Angular, React**
 
 - 📫 To reach me **nahidhossain1184@gmail.com**
 
