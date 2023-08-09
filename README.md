@@ -3,18 +3,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently learning **PHP**
+- I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nahidv2.netlify.app/)
+- All of my projects are available at [My Portfolio](https://portfolio-nahidv2.netlify.app/)
 
-- ![image](https://github.com/floatingnahid22/floatingnahid22/assets/81576753/0d576f84-9917-4411-bf41-6a8d77bd0771)
- Ask me about **JavaScript, TypeScript, Angular, React**
+- Ask me about **JavaScript, TypeScript, Angular, React**
 
-- 📫 To reach me **nahidhossain1184@gmail.com**
+- To reach me **nahidhossain1184@gmail.com**
 
-- 📄 Know about my experiences at [My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
+- Know about my experiences at [My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
 
-- ⚡ Fun fact **I love to Travel & Cook**
+- Fun fact **I love to Travel & Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
