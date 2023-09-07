@@ -1,13 +1,13 @@
 <h1 align="center">Hi, This is Nahid Hossain</h1>
-<h3 align="center">A passionate Software Engineer(Frontend) from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer(Full Stack) from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- I’m currently learning **PHP**
+- I’m currently learning **Nest.Js**
 
 - All of my projects are available at [My Portfolio](https://portfolio-nahidv2.netlify.app/)
 
-- Ask me about **JavaScript, TypeScript, Angular, React**
+- Ask me about **JavaScript, TypeScript, Angular, React, Node.Js, Nest.JS**
 
 - To reach me **nahidhossain1184@gmail.com**
 
