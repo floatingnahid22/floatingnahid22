@@ -2,12 +2,13 @@
 <p align="center">I'm a passionate Full Stack Software Engineer, proficient in Angular and Nest.js. At Zecodeek IT Ltd, I create seamless user experiences and robust web solutions. Committed to best practices and continuous learning</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+- I’m currently learning **Nest.Js**
+  
+- Ask me about **JavaScript, Angular**
 
-- Ask me about **JavaScript, TypeScript, Angular**
+- All of my projects are available at **[My Portfolio](https://nahid-v2.netlify.app/)**
 
-- All of my projects are available at [My Portfolio](https://nahid-v2.netlify.app/)
-
-- Know about my experiences at [My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
+- Know about my experiences at **[My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)**
 
 - To reach me **nahidhossain1184@gmail.com**
 
@@ -39,8 +40,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
