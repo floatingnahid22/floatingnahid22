@@ -1,4 +1,4 @@
-<h1 align="center">Hi, This is Nahid Hossain</h1>
+<h1 align="center" style="color : white">Hi, I'm Nahid Hossain</h1>
 <p align="center">I'm a passionate Full Stack Software Engineer, proficient in Angular and Nest.js. At Zecodeek IT Ltd, I create seamless user experiences and robust web solutions. Committed to best practices and continuous learning</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
