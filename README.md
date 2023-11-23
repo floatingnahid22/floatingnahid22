@@ -4,8 +4,6 @@
 
 - I’m currently learning **Nest.Js**
   
-- Ask me about **JavaScript, Angular**
-
 - All of my projects are available at **[My Portfolio](https://nahid-v2.netlify.app/)**
 
 - Know about my experiences at **[My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)**
