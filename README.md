@@ -2,26 +2,16 @@
 <p align="center">I'm a passionate Full Stack Software Engineer, proficient in Angular and Nest.js. At Zecodeek IT Ltd, I create seamless user experiences and robust web solutions. Committed to best practices and continuous learning</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- I’m currently learning **Nest.Js**
+- I’m currently learning [![Learning Badge](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red)](https://nestjs.com/) 
   
-- All of my projects are available at **[My Portfolio](https://nahid-v2.netlify.app/)**
+- All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/-Resume-243c54?style=flat-square)](https://nahid-v2.netlify.app/)
 
-- Know about my experiences at **[My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)**
+- Know about my experiences at [![Resume Badge](https://img.shields.io/badge/-Resume-3ce3b4?style=flat-square)](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
 
-- To reach me:
-<a href="https://www.linkedin.com/in/nahid-hossain-66433919b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- <a href="https://www.hackerrank.com/profile/nahidhossain1184" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-   <a href="https://leetcode.com/nahidhossain1184/" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=black">
-  </a>
-   <a href="nahidhossain1184@gmail.com" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahidhossain1184@gmail.com">
-  </a>
-
+- To reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/nahid-hossain-66433919b/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahidhossain1184@gmail.com)](mailto:nahidhossain1184@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=black&link=)](https://leetcode.com/nahidhossain1184/)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white&link=)](https://www.hackerrank.com/profile/nahidhossain1184)
 
 - Fun fact **I love to Travel & Cook**
 
