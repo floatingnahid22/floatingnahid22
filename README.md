@@ -8,7 +8,20 @@
 
 - Know about my experiences at **[My Resume](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)**
 
-- To reach me **nahidhossain1184@gmail.com**
+- To reach me:
+<a href="https://www.linkedin.com/in/nahid-hossain-66433919b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ <a href="https://www.hackerrank.com/profile/nahidhossain1184" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+   <a href="https://leetcode.com/nahidhossain1184/" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=black">
+  </a>
+   <a href="nahidhossain1184@gmail.com" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahidhossain1184@gmail.com">
+  </a>
+
 
 - Fun fact **I love to Travel & Cook**
 
