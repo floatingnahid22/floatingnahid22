@@ -16,17 +16,7 @@
 - Fun fact **I love to Travel & Cook**
 
 <h2> Currently working with <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  </a><a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  </a><a href="https://angular.io/" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  </a><a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-ef5b25?style=flat-square&logo=git&logoColor=black">
-  </a><a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a><a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a><a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"></a><a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-ef5b25?style=flat-square&logo=git&logoColor=black"></a><a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
