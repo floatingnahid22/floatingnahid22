@@ -30,7 +30,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/-Postman-ef5b25?style=flat-square&logo=postman&logoColor=white"></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-ef5b25?style=flat-square&logo=git&logoColor=black"></a>
-<a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
 
 
 
