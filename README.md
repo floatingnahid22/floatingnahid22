@@ -1,8 +1,8 @@
 <h1 align="center" style="color : white">Hi, I'm Nahid Hossain</h1>
-<p align="center">I'm a passionate Software Engineer(Frontend), proficient in Angular and ongoing learning in Nest.js. My focus is on creating seamless user experiences and robust web solutions, guided by best practices and a commitment to continuous learning.</p>
+<p align="center">I'm a passionate Software Engineer(Frontend), proficient in Angular and ongoing learning in Nest.js and Wordpress. My focus is on creating seamless user experiences and robust web solutions, guided by best practices and a commitment to continuous learning.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- I’m currently learning [![Learning Badge](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red)](https://nestjs.com/) 
+- I’m currently learning [![Learning Nest Badge](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red)](https://nestjs.com/) & [![Learning WP Badge](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
   
 - All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-243c54?style=flat-square)](https://nahid-v2.netlify.app/)
 
@@ -27,9 +27,12 @@
 <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red"></a>
+<a href="https://wordpress.org/documentation/" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/-Postman-ef5b25?style=flat-square&logo=postman&logoColor=white"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+"></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-ef5b25?style=flat-square&logo=git&logoColor=black"></a>
-
 
 
