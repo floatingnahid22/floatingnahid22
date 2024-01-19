@@ -2,7 +2,7 @@
 <p align="center">I'm a passionate Software Engineer(Frontend), proficient in Angular and ongoing learning in Nest.js and Wordpress. My focus is on creating seamless user experiences and robust web solutions, guided by best practices and a commitment to continuous learning.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- I’m currently learning [![Learning Nest Badge](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red)](https://nestjs.com/) & [![Learning WP Badge](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
+- I’m currently learning [![Learning PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/manual/en/) & [![Learning WP Badge](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
   
 - All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-243c54?style=flat-square)](https://nahid-v2.netlify.app/)
 
@@ -18,11 +18,15 @@
 <h2> Currently working with <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
+<a href="https://www.php.net/manual/en/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
 <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"></a>
+<a href="https://wordpress.org/documentation/" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"></a>
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
+<a href="https://www.php.net/manual/en/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
 <a href="https://react.dev/reference/react" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></a>
 <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
