@@ -1,13 +1,11 @@
 <h1 align="center" style="color : white">Hi, I'm Nahid Hossain</h1>
-<p align="center">I'm a passionate Software Engineer(Full Stack), proficient in Angular and ongoing learning in PHP and Headless Wordpress. My focus is on creating seamless user experiences and robust web solutions, guided by best practices and a commitment to continuous learning.</p>
+<p align="center">I'm a passionate Software Engineer(Full Stack), proficient in Angular. My focus is on creating seamless user experiences and robust web solutions, guided by best practices and a commitment to continuous learning.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - A passionate Self-taught Full Stack developer.
 
 - I’m currently Working on Web App(Angular).
 
-- I’m currently learning [![Learning PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/manual/en/) & [![Learning WP Badge](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
-  
 - All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-243c54?style=flat-square)](https://nahidhossain.netlify.app/)
 
 - Know about my experiences in [![Resume Badge](https://img.shields.io/badge/-Resume-3ce3b4?style=flat-square)](https://drive.google.com/drive/folders/1VSDfmrqOLy_p6cgsFoXy-xe7Tt3Cl5K8?usp=sharing)
