@@ -22,8 +22,7 @@
 <a href="https://www.shopify.com/" target="_blank"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=white"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-
+<a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
