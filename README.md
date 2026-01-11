@@ -22,6 +22,7 @@
 <a href="https://www.shopify.com/" target="_blank"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=white"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 
 
 
@@ -34,6 +35,7 @@
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/-Nest-black?style=flat-square&logo=NestJs&logoColor=red"></a>
 <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://wordpress.org/documentation/" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/-Postman-ef5b25?style=flat-square&logo=postman&logoColor=white"></a>
